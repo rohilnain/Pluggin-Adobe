@@ -1,0 +1,2 @@
+C:\Users\rnain\Downloads\Acrobat_DC_SDK_Windows_2021_v2\Adobe\Acrobat DC SDK\Version 1\PluginSupport\Samples\Starter\win32\Debug\Starter.api
+C:\Users\rnain\Pluggin-Adobe\Acrobat_DC_SDK_Windows_2021_v2\Adobe\Acrobat DC SDK\Version 1\PluginSupport\Samples\Starter\win32\Debug\Starter.api
