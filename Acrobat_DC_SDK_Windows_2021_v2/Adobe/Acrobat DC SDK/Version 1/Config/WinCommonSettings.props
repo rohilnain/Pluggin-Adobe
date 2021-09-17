@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PropertySheetDisplayName>WinCommonSettings.props</_PropertySheetDisplayName>
+	<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="UserMacros">
+    <PLATFORM_TOOL_SET>v142</PLATFORM_TOOL_SET>
+	<TAREGT_FRAMEWORK_VERSION>v4.8</TAREGT_FRAMEWORK_VERSION>
+	<BUILD_RESULTS>..\..\..\..\..\..\BuildResults\obj\</BUILD_RESULTS>
+  </PropertyGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Platform)'=='x64'">
+    <Import Project="Win64Settings.props" />
+  </ImportGroup>
+</Project>

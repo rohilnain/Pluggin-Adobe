@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BatesNumbering", "BatesNumbering.vcxproj", "{E6B957E5-3D50-49F6-AE2D-05F95308C8D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B957E5-3D50-49F6-AE2D-05F95308C8D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6B957E5-3D50-49F6-AE2D-05F95308C8D0}.Debug|Win32.Build.0 = Debug|Win32
+		{E6B957E5-3D50-49F6-AE2D-05F95308C8D0}.Debug|x64.ActiveCfg = Debug|x64
+		{E6B957E5-3D50-49F6-AE2D-05F95308C8D0}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6EC9D1-899C-4EE1-B12F-EC2CC21009B1}
+	EndGlobalSection
+EndGlobal

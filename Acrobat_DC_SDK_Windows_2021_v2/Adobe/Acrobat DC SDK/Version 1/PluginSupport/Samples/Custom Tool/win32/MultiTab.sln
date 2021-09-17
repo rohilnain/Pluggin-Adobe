@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiTab", "MultiTab.vcxproj", "{9EBC1409-55E5-4BF4-A98E-C99084E58842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBC1409-55E5-4BF4-A98E-C99084E58842}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EBC1409-55E5-4BF4-A98E-C99084E58842}.Debug|Win32.Build.0 = Debug|Win32
+		{9EBC1409-55E5-4BF4-A98E-C99084E58842}.Debug|x64.ActiveCfg = Debug|x64
+		{9EBC1409-55E5-4BF4-A98E-C99084E58842}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF7E16A-F668-4D1C-99EF-3F1D58E468B0}
+	EndGlobalSection
+EndGlobal

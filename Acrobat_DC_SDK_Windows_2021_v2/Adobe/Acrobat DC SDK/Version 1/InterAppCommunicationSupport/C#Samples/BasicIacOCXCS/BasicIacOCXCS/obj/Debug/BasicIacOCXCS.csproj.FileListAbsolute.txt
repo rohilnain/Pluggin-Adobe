@@ -1,0 +1,23 @@
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\Interop.AcroPDFLib.dll
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.csproj.ResolveComReference.cache
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\BasicIacOCXCS.exe
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\BasicIacOCXCS.pdb
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\Interop.AcroPDFLib.dll
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.BasicIacOCXCS.resources
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.csproj.GenerateResource.Cache
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.exe
+C:\mohitgup.acrobat.sdk.win\SDK\main\IAC\win\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.pdb
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\BasicIacOCXCS.exe
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\BasicIacOCXCS.pdb
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.csprojAssemblyReference.cache
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.csproj.ResolveComReference.cache
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.BasicIacOCXCS.resources
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.csproj.GenerateResource.cache
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.exe
+C:\Users\rdhiman\OneDrive - Adobe Systems Incorporated\SDK Upgrade\sdkDC_v1_win\Adobe\Acrobat DC SDK\Version 1\InterAppCommunicationSupport\C#Samples\BasicIacOCXCS\BasicIacOCXCS\obj\Debug\BasicIacOCXCS.pdb

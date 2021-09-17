@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.40219.1</_ProjectFileVersion>
+    <_PropertySheetDisplayName>Win64Settings.props</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+	  <DisableSpecificWarnings>4267;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+	  <OmitFramePointers>false</OmitFramePointers>
+    </ClCompile>
+    <Lib>
+      <AdditionalOptions>/MACHINE:X64 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+	<Link>
+		<ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+	</Link>
+  </ItemDefinitionGroup>
+  <PropertyGroup Label="UserMacros">
+    <IAC_DEBUG_PATH Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.\bin_Debug_x64\</IAC_DEBUG_PATH>
+	<IAC_RELEASE_PATH Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.\bin_Release_x64\</IAC_RELEASE_PATH>
+	<IAC_CS_DEBUG_PATH Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.\bin\Debug_x64\</IAC_CS_DEBUG_PATH>
+	<IAC_CS_RELEASE_PATH Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.\bin\Release_x64\</IAC_CS_RELEASE_PATH>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.\Debug_x64\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.\Debug_x64\</IntDir>
+	<OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.\Release_x64\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.\Release_x64\</IntDir>
+  </PropertyGroup>
+</Project>

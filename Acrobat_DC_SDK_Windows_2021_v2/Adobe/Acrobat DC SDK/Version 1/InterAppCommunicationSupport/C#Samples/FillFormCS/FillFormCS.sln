@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillFormCS", "FillFormCS\FillFormCS.csproj", "{DDB467D6-C35C-49AE-8B9D-1C7D645E7D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB467D6-C35C-49AE-8B9D-1C7D645E7D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB467D6-C35C-49AE-8B9D-1C7D645E7D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB467D6-C35C-49AE-8B9D-1C7D645E7D22}.Debug|x64.ActiveCfg = Debug|x64
+		{DDB467D6-C35C-49AE-8B9D-1C7D645E7D22}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB404034-0D42-438A-AE0F-62523745DD95}
+	EndGlobalSection
+EndGlobal
